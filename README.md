@@ -65,7 +65,7 @@ A modern social media platform designed specifically for IIIT Guwahati students 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/krishna-ux830/college-connect.git
+git clone https://github.com/4xush/college-connect.git
 cd college-connect
 ```
 
@@ -142,9 +142,6 @@ JWT_SECRET=your_jwt_secret
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- **Krishna Kumar** - _Initial work_ - [GitHub](https://github.com/krishna-ux830)
 
 ## 🙏 Acknowledgments
 
