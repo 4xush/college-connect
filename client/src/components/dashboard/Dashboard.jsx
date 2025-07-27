@@ -8,7 +8,6 @@ import api from "../../services/api"
 import PostItem from "../posts/PostItem"
 import PollItem from "../polls/PollItem"
 import NotificationPanel from "../notifications/NotificationPanel"
-import Footer from "../layout/Footer"
 import { getNotifications } from "../../api/notifications"
 
 const Dashboard = () => {
@@ -209,7 +208,6 @@ const Dashboard = () => {
           )}
         </div>
       </div>
-      <Footer />
     </div>
   )
 }
